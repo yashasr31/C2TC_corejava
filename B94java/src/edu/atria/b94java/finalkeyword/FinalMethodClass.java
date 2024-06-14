@@ -1,6 +1,6 @@
 package edu.atria.b94java.finalkeyword;
 
-final class FinalMethodClass {
+class FinalMethodClass {
 		FinalMethodClass(){
 			System.out.println("This is a default constructor");
 		}
